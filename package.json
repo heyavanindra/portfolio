@@ -23,6 +23,7 @@
     "eslint-config-next": "13.4.19",
     "fast-glob": "^3.3.3",
     "framer-motion": "^10.16.1",
+    "mdx": "^0.3.1",
     "next": "13.4.19",
     "postcss": "8.4.28",
     "prismjs": "^1.29.0",
@@ -32,5 +33,8 @@
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/mdx": "^2.0.13"
   }
 }
