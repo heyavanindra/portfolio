@@ -10,7 +10,7 @@ import whisperBoxImage from "public/images/whisper-box.png";
 
 export const products = [
   {
-    href: "https://scriblix-pro.vercel.app",
+    href: "https://blog.aviii.xyz",
     title: "Scriblix Pro",
     description:
       "A design and development studio that focuses on building quality apps.",
@@ -40,7 +40,7 @@ export const products = [
     ),
   },
   {
-    href: "whisper-box-rho.vercel.app",
+    href: "https://whisper.aviii.xyz",
     title: "Whisper Box",
     description:
       "A simple and secure way to send anonymous messages to your friends.",
